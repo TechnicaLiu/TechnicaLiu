@@ -1,16 +1,13 @@
-### Hi there 👋
+### Yoo, I'm TechLiu 👋
 
-<!--
-**TechnicaLiu/TechnicaLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🍻 I studied at Tianjin Normal University , major in software engineering_
+- ⚡ Vue / TypeScript / JavaScript.
+- 🖋 Writer at [juejin](https://juejin.cn/user/3008702653932014/posts)
+- ✍️ [Blogger](https://youngstory.gitee.io/blog/)
+- 🏃  running  / Learning English / playing badminton / documentary / Technology
+- 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**项目**
+*** 
+[cloudMusic](https://github.com/TechnicaLiu/cloudMusic) <br>
+[shop_backend](https://github.com/TechnicaLiu/shop_backend)
